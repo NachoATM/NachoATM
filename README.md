@@ -3,7 +3,7 @@
 
 ### 🔗 **Me puedes encontrar en:**:
 
-- **LinkedIn →** [LinkedIn](https://www.linkedin.com/in/jose-ignacio-esteban-gonzalez/)
+- **LinkedIn →** [JoseIgnacioEsteban](https://www.linkedin.com/in/jose-ignacio-esteban-gonzalez/)
 
 ### 📚 Educación y certificaciones:
 
