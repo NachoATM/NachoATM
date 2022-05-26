@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋🏻 Bienvenido a mi GitHub!
 
-<!--
-**NachoATM/NachoATM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔗 **Me puedes encontrar en:**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn →** [LinkedIn](https://www.linkedin.com/in/jose-ignacio-esteban-gonzalez/)
+
+### 📚 Educación y certificaciones:
+
+- **Bootcamp Data Science (+500 horas)**
+- **Terminando Ingeniería Telemática (UPM)**
+- **Certificación en Inglés B2**
+- **Certificación en Francés A2**
+- **Certificación en Ciberseguridad en el Teletrabajo**
+- **Certificacion en Fundamentos de Digital Marketing**
+
+
+🌍 **Madrid (Spain)**
