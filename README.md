@@ -27,5 +27,4 @@ Científico de datos con Máster en Big Data y **más de 3 años de experiencia*
 ¿Buscas optimizar tus sistemas de datos, desplegar pipelines estables o colaborar en proyectos de ML? ¡Hablemos!
 
 * 💼 **LinkedIn:** [Jose Ignacio Esteban](https://www.linkedin.com/in/jose-ignacio-esteban-gonzalez/)
-* 📓 **Notion CV:** [Perfil Principal](https://www.notion.so/Jose-Ignacio-Esteban-Gonz-lez-31781e06511c4315a3d0fce27b5885f9)
 * 🌍 **Ubicación:** Madrid, España
